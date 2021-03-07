@@ -22,8 +22,8 @@ Please make sure You have following software:
 
 ### 3. Запуск проекта
 In order to run project: <br>
-1) Создайте БД MySQL "sample", согласно настроек application.yml или запустить Docker-Compose image (./mysql-image/docker-compose)
-2) Запустите приложение "TestApplication" в IDE или в консоли `gradle bootRun'
+1) Создайте БД MySQL "sample", согласно настроек application.yml или запустите Docker-Compose image (./mysql-image/docker-compose)
+2) Запустите приложение "TestApplication" в IDE или в консоли `gradle bootRun' из папки проекта
 
-### 5. Endpoint документация
+### 4. Endpoint документация
 Для проверки работы сервиса можно воспользоваться Документацией Swagger "http://localhost:8083/swagger-ui.html"
